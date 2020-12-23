@@ -3,18 +3,18 @@
 ###  علی نوروزپور بیجارپسی
 
 ---
- ⊷ [Github](https://github.com/AliNorouzpoor)
- ⊷ [PNU_3991_AR](https://github.com/AliNorouzpoor/PNU_3991_AR)
- ⊷ [Resume]()
- ⊷ [SOP]()
- ⊷ [JavaScript]()
- ⊷ [Patchwork]() 
+⊷ [Github](https://github.com/AliNorouzpoor)
+⊷ [PNU_3991_AR](https://github.com/AliNorouzpoor/PNU_3991_AR)
+⊷ [Resume]()
+⊷ [SOP]()
+⊷ [JavaScript]()
+⊷ [Patchwork]() 
 -------------------
 ##  گروه
 
- ⊷ G-L02
+⊷ G-L02
 
- ⊷ [_LMT-68_علی نوروزپور بیجارپسی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/68_%D8%B9%D9%84%D9%8A%20%D9%86%D9%88%D8%B1%D9%88%D8%B2%D9%BE%D9%88%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D8%B1%D9%BE%D8%B3%D9%8A) 
+⊷ [_LMT-68_علی نوروزپور بیجارپسی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/68_%D8%B9%D9%84%D9%8A%20%D9%86%D9%88%D8%B1%D9%88%D8%B2%D9%BE%D9%88%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D8%B1%D9%BE%D8%B3%D9%8A) 
 
 -----------------
 ## Winter Semester Courses 1399/2020
