@@ -3,7 +3,7 @@
 ### علی نوروزپور بیجارپسی
 
 ---
-- [Github](https://github.com/alinorouzpour/PNU_3991_AR/)
+- [Github](https://github.com/AliNorouzpour)
 - [Resume]()
 - [SOP]()
 - [JavaScript]()
