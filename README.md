@@ -3,7 +3,7 @@
 ### علی نوروزپور بیجارپسی
 
 ---
-- [Github](https://github.com/AliNorouzpour)
+- [Github](https://github.com/AliNorouzpoor)
 - [Resume]()
 - [SOP]()
 - [JavaScript]()
