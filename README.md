@@ -6,7 +6,7 @@
 - [Github](https://github.com/AliNorouzpoor)
 - [PNU_3991_AR](https://github.com/AliNorouzpoor/PNU_3991_AR)
 - [Resume]()
-- [SOP]()
+- [SOP](https://alinorouzpoor.github.io/SOP/)
 - [JavaScript](https://github.com/AliNorouzpoor/PNU_3991_AR/blob/main/cert-1024-20609324.pdf)
 - [Patchwork]() 
 -------------------
